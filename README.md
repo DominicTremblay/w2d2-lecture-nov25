@@ -133,9 +133,12 @@ sleepSort(numbers);
 
 - [Reading with readFileSync](./read_file_sync.js)
 - [Reading with readFile (async)](./read_file_async.js)
-- [Reading with nested async calls](./read_file_async_nested.js)
 
 ## Events
+
+- [stdin Example](./std.js)
+- [EventEmitter Example](./events.js)
+
 
 - Events are actions or occurrences that happen in the system you are programming, which the system tells you about so you can respond to them in some way if desired.
 
