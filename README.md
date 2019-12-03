@@ -152,6 +152,3 @@ sleepSort(numbers);
 
 - [Event Loop](http://latentflip.com/loupe/)
 
-## References
-
-- [Philip Roberts: What the heck is the event loop anyway?](https://2014.jsconf.eu/speakers/philiphttps://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html-roberts-what-the-heck-is-the-event-loop-anyway.html)
